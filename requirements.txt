@@ -3,3 +3,7 @@ scikit-learn==1.7.2
 matplotlib==3.10.3
 pandas==1.2.4
 numpy==2.2.6
+xgboost==2.0.3
+catboost==1.2.4
+joblib==1.4.0
+streamlit==1.24.0
