@@ -6,7 +6,7 @@ import numpy as np
 # Load your trained XGBoost model
 @st.cache_resource
 def load_model():
-    return joblib.load("Models\\xgb_model.joblib")
+    return joblib.load("Models\xgb_model.joblib")
 
 model = load_model()
 
