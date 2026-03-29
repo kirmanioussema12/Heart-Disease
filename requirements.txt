@@ -1,8 +1,4 @@
-seaborn==0.13.2
-scikit-learn==1.7.2
-matplotlib==3.10.3
-pandas==1.2.4
-numpy==2.2.6
-xgboost==3.2.0
-joblib==1.4.2
-streamlit==1.55.0
+streamlit
+xgboost
+pandas
+joblib
