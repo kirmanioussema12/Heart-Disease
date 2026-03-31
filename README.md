@@ -158,7 +158,7 @@ XGBClassifier(
 
 | **Metric** | **Score** | **Interpretation** |
 |------------|-----------|-------------------|
-| **Accuracy** | **87.3%** | Overall correct predictions |
+| **Accuracy** | **88.73%** | Overall correct predictions |
 | **Precision** | **89.1%** | Positive prediction reliability |
 | **Recall** | **85.4%** | Disease detection rate |
 | **F1-Score** | **87.2%** | Balanced performance |
@@ -172,7 +172,7 @@ XGBClassifier(
 
 | **Algorithm** | **Accuracy** | **ROC-AUC** | **Training Time** |
 |---------------|--------------|-------------|-------------------|
-| XGBoost | **87.3%** | **0.92** | 1.2s |
+| XGBoost | **88.73%** | **0.92** | 1.2s |
 | Random Forest | 84.1% | 0.88 | 2.8s |
 | Logistic Regression | 81.7% | 0.85 | 0.3s |
 | SVM | 82.9% | 0.87 | 3.5s |
@@ -262,7 +262,7 @@ Heart-Disease/
 <td width="50%">
 
 ### 🎯 **Clinical Accuracy**
-- **87.3% prediction accuracy** on test set
+- **88.73% prediction accuracy** on test set
 - **0.92 ROC-AUC** for reliable risk stratification
 - Validated with cross-validation
 
