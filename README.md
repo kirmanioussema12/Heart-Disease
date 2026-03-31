@@ -11,7 +11,7 @@
 
 **An end-to-end machine learning system leveraging XGBoost to predict cardiovascular disease risk with clinical-grade accuracy.**
 
-[🚀 Live Demo](#) • [📊 View Analysis](https://github.com/kirmanioussema12/Heart-Disease/tree/main/analysis) • [📓 Notebooks](https://github.com/kirmanioussema12/Heart-Disease/tree/main/Notebooks) • [📈 Documentation](https://github.com/kirmanioussema12/Heart-Disease/tree/main/Progress_Documentation)
+[🚀 Live Demo](https://heart-disease-y5uzuu8eecrwc6a6wzl7me.streamlit.app/) • [📊 View Analysis](https://github.com/kirmanioussema12/Heart-Disease/tree/main/analysis) • [📓 Notebooks](https://github.com/kirmanioussema12/Heart-Disease/tree/main/Notebooks) • [📈 Documentation](https://github.com/kirmanioussema12/Heart-Disease/tree/main/Progress_Documentation)
 
 </div>
 
